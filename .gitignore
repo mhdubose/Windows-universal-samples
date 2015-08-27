@@ -198,3 +198,7 @@ FakesAssemblies/
 
 # Custom ignores
 gallery.xml
+<<<<<<< HEAD
+=======
+project.lock.json
+>>>>>>> 2fbdfea60458ab5c915083de9979f5668e676acb
